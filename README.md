@@ -99,3 +99,5 @@ El algoritmo Push-Relabel es una técnica eficiente para calcular el flujo máxi
    - El flujo máximo se obtiene del exceso de flujo en el nodo sumidero.
 
 El algoritmo Push-Relabel es eficiente para calcular el flujo máximo en redes de flujo con múltiples caminos y grandes capacidades. La complejidad de $O(V^2E)$ es adecuada para grafos donde el número de aristas no es excesivamente grande en comparación con el cuadrado del número de nodos.
+
+- Desarrollado Por Juan Sebastian Rodriguez torres - 202214617
